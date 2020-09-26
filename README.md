@@ -18,6 +18,8 @@ The project is inspired by
 
 ## Demo
 The bounding box is blue with the name and accuracy for people who are into the dataset, red otherwise if the accuracy is less than 0.4.
+
+
 <img src="https://github.com/daduz11/ios-facenet-id/blob/master/demo.gif" width="270" align="left">
 <img src="https://github.com/daduz11/ios-facenet-id/blob/master/main.png" width="230" align="left">
 <img src="https://github.com/daduz11/ios-facenet-id/blob/master/list.png" width="230" align="center">
