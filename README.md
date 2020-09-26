@@ -17,11 +17,12 @@ The project is inspired by
 * [iOSFacetracker](https://github.com/anuragajwani/FaceTracker)
 
 ## Demo
-![home](./main.png)  
-![list](./list.png)  
+<img src="https://github.com/daduz11/ios-facenet-id/blob/master/main.png" width="250" align="left">
+<img src="https://github.com/daduz11/ios-facenet-id/blob/master/list.png" width="250" align="center">
 
 The bounding box is blue with the name and accuracy for people who are into the dataset, red otherwise if the accuracy is less than 0.4.
-![demo](./demo.gif)  
+
+<img src="https://github.com/daduz11/ios-facenet-id/blob/master/demo.gif" width="250" align="right">
 
 
 ## Pre-trained model
