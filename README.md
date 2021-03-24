@@ -1,7 +1,7 @@
 #  Realtime iOS Face Identifier
 
 
-This project has been carried out for an assignment of Digital Systems course at the University of Bologna. 
+This project was carried out for an assignment of Digital Systems course at the University of Bologna. 
 
 The proposal provides the implementation of real time face recognizer using [CoreML](https://developer.apple.com/documentation/coreml) and [Facenet](https://arxiv.org/abs/1503.03832).
 
